@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958496626063",
+    "project_id": "efeeder-fish",
+    "storage_bucket": "efeeder-fish.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958496626063:android:b2404dc438fdc1cfd127fa",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmdJDGceqr49wqXCZmew8CDBeO813J_oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
